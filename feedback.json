@@ -1,0 +1,85 @@
+{
+  "feedback": [
+    {
+      "message_id": 1378571238649106493,
+      "user_id": 1229426100246155364,
+      "feedback_type": "helpful",
+      "command_type": null,
+      "timestamp": "2025-06-01T03:10:10.886955"
+    },
+    {
+      "message_id": 1378587799468511332,
+      "user_id": 1229426100246155364,
+      "feedback_type": "helpful",
+      "command_type": null,
+      "timestamp": "2025-06-01T04:16:26.049705"
+    },
+    {
+      "message_id": 1378590452353208401,
+      "user_id": 1229426100246155364,
+      "feedback_type": "helpful",
+      "command_type": null,
+      "timestamp": "2025-06-01T04:26:56.947600"
+    },
+    {
+      "message_id": 1378590452353208401,
+      "user_id": 969877800746123284,
+      "feedback_type": "helpful",
+      "command_type": null,
+      "timestamp": "2025-06-01T04:26:59.195174"
+    },
+    {
+      "message_id": 1378592065641775205,
+      "user_id": 1229426100246155364,
+      "feedback_type": "helpful",
+      "command_type": null,
+      "timestamp": "2025-06-01T04:49:27.020072"
+    },
+    {
+      "message_id": 1378655055061975080,
+      "user_id": 1229426100246155364,
+      "feedback_type": "helpful",
+      "command_type": null,
+      "timestamp": "2025-06-01T08:43:33.324674"
+    },
+    {
+      "message_id": 1378655055061975080,
+      "user_id": 1331761142845935690,
+      "feedback_type": "helpful",
+      "command_type": null,
+      "timestamp": "2025-06-01T08:43:36.398802"
+    },
+    {
+      "message_id": 1378719287950442617,
+      "user_id": 1129626243604684901,
+      "feedback_type": "helpful",
+      "command_type": null,
+      "timestamp": "2025-06-01T12:58:19.928582"
+    },
+    {
+      "message_id": 1378719625998762094,
+      "user_id": 1229426100246155364,
+      "feedback_type": "not_helpful",
+      "command_type": null,
+      "timestamp": "2025-06-01T12:59:47.482254"
+    },
+    {
+      "message_id": 1378723658519941200,
+      "user_id": 1377492933309108298,
+      "feedback_type": "not_helpful",
+      "command_type": null,
+      "timestamp": "2025-06-01T13:15:45.651946"
+    },
+    {
+      "message_id": 1378728311689318501,
+      "user_id": 1229426100246155364,
+      "feedback_type": "helpful",
+      "command_type": null,
+      "timestamp": "2025-06-01T13:34:33.470009"
+    }
+  ],
+  "stats": {
+    "helpful": 9,
+    "not_helpful": 2
+  }
+}
